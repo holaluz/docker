@@ -4,4 +4,5 @@ This repository contains the files needed to build docker images for our systems
 List of images
 --------------
 - [holaluz/psalm](php/psalm)
+- [holaluz/php-cli](php/php-cli)
 
