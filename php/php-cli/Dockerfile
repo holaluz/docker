@@ -68,4 +68,5 @@ RUN true \
 
 WORKDIR /opt
 
-ENTRYPOINT ["/bin/bash"]
+CMD ["/bin/bash"]
+ENTRYPOINT ["/bin/bash", "-c"]
